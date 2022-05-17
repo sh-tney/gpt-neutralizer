@@ -1,0 +1,35 @@
+WARNING:tensorflow:From /usr/local/lib/python3.7/dist-packages/gpt_2_simple/src/sample.py:17: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+Loading checkpoint checkpoint/P1_Neutralized14/model-1000
+INFO:tensorflow:Restoring parameters from checkpoint/P1_Neutralized14/model-1000
+  0%|          | 0/1 [00:00<?, ?it/s]Loading dataset...
+100%|██████████| 1/1 [00:08<00:00,  8.84s/it]
+dataset has 1738928 tokens
+Training...
+Saving checkpoint/P1_Neutralized14/model-1000
+======== SAMPLE 1 ========
+_JJ is_BEZ a_AT moral_JJ conscience_NN ._.
+the_AT moral_JJ conscience_NN consists_VBZ in_IN having_HVG a_AT moral_JJ conviction_NN in_IN what_WDT we_PPSS are_BER doing_VBG ._.
+in_IN some_DTI respects_NNS ,_, it_PPS is_BEZ the_AT very_QL same_AP conviction_NN today_NR as_QL long_RB ago_RB as_RB 1900_CD ._.
+but_CC it_PPS is_BEZ not_* the_AT same_AP conviction_NN as_CS the_AT conscience_NN of_IN the_AT moral_JJ person_NN in_IN the_AT past_AP ._.
+in_IN the_AT history_NN of_IN American_JJ civilization_NN we_PPSS have_HV seen_VBN that_CS in_IN the_AT history_NN of_IN political_JJ and_CC social_JJ institutions_NNS which_WDT ,_, in_IN the_AT first_OD place_NN ,_, hold_NN the_AT most_QL precious_JJ of_IN the_AT human_JJ resources_NNS ,_, this_DT holds_VBZ also_RB for_IN political_JJ institutions_NNS which_WDT ,_, after_IN the_AT election_NN ,_, hold_VB the_AT most_QL precious_JJ of_IN the_AT human_JJ relations_NNS ,_, this_DT holds_VBZ also_RB for_IN social_JJ institutions_NNS which_WDT ,_, although_CS they_PPSS are_BER limited_VBN to_IN a_AT kind_NN of_IN social_JJ organ_NN ,_, do_DO contain_VB a_AT certain_JJ vital_JJ self-confidence_NN and_CC initiative_NN ._.
+the_AT most_QL important_JJ thing_NN about_IN the_AT political_JJ institutions_NNS ,_, and_CC the_AT thing_NN which_WDT will_MD determine_VB their_PP$ usefulness_NN to_IN the_AT American_JJ mind_NN ,_, is_BEZ that_CS they_PPSS are_BER not_* only_RB democratic_JJ ,_, but_CC they_PPSS are_BER democratic_JJ because_CS ,_, in_IN the_AT beginning_NN ,_, the_AT majority_NN believed_VBD that_CS a_AT general_JJ federal_JJ government_NN was_BEDZ best_JJT for_IN the_AT best_JJ long_RB in_IN the_AT hope_NN of_IN keeping_VBG the_AT people_NNS from_IN voting_VBG at_IN the_AT polls_NNS and_CC voting_VBG in_IN local_JJ elections_NNS ._.
+now_RB they_PPSS fear_VB that_CS they_PPSS will_MD never_RB get_VB the_AT kind_NN of_IN federal_JJ government_NN they_PPSS would_MD have_HV been_BEN promised_VBN in_IN the_AT first_OD constitutional_JJ election_NN when_WRB the_AT people_NNS ,_, being_BEG at_IN the_AT polls_NNS ,_, might_MD decide_VB whether_CS to_TO choose_VB for_IN them_PPO the_AT first_OD president_NN of_IN the_AT United_VBN States_NNS ._.
+they_PPSS feel_VB that_CS if_CS it_PPS wasn't_BEDZ* for_IN them_PPO they_PPSS could_MD never_RB have_HV a_AT chance_NN to_TO exercise_VB their_PP$ liberty_NN as_QL freely_RB as_CS they_PPSS do_DO now_RB ._.
+the_AT reason_NN for_IN this_DT concern_NN for_IN the_AT people's_NNS$ rights_NNS and_CC freedom_NN of_IN the_AT press_NN is_BEZ that_CS it_PPS ,_, too_RB ,_, should_MD be_BE the_AT responsibility_NN of_IN the_AT American_JJ people_NNS to_TO uphold_
+
+[1001 | 26.38] loss=1.40 avg=1.40
+[1002 | 29.58] loss=1.26 avg=1.33
+[1003 | 32.77] loss=1.31 avg=1.32
+[1004 | 35.99] loss=1.40 avg=1.34
+[1005 | 39.18] loss=1.24 avg=1.32
+[1006 | 42.37] loss=1.38 avg=1.33
+[1007 | 45.57] loss=1.31 avg=1.33
+[1008 | 48.77] loss=1.35 avg=1.33
+[1009 | 51.96] loss=1.29 avg=1.33
+[1010 | 55.16] loss=1.26 avg=1.32
+Saving checkpoint/P1_Neutralized14/model-1010
+WARNING:tensorflow:From /tensorflow-1.15.2/python3.7/tensorflow_core/python/training/saver.py:963: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.

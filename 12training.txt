@@ -1,0 +1,271 @@
+WARNING:tensorflow:From /usr/local/lib/python3.7/dist-packages/gpt_2_simple/src/sample.py:17: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+Loading checkpoint models/124M/model.ckpt
+INFO:tensorflow:Restoring parameters from models/124M/model.ckpt
+  0%|          | 0/1 [00:00<?, ?it/s]Loading dataset...
+100%|██████████| 1/1 [00:09<00:00,  9.51s/it]
+dataset has 2115492 tokens
+Training...
+[10 | 27.71] loss=2.10 avg=2.10
+[20 | 49.56] loss=1.76 avg=1.93
+[30 | 72.00] loss=1.68 avg=1.85
+[40 | 94.94] loss=1.53 avg=1.77
+[50 | 117.54] loss=1.46 avg=1.70
+[60 | 140.04] loss=1.45 avg=1.66
+[70 | 162.68] loss=1.43 avg=1.63
+[80 | 185.32] loss=1.50 avg=1.61
+[90 | 207.86] loss=1.31 avg=1.58
+[100 | 230.44] loss=1.44 avg=1.56
+======== SAMPLE 1 ========
+V_RP_NP ._.
+if_CS a_AT person_NN in_IN a_AT relationship_NN lives_VBZ in_IN a_AT building_NN ,_, they_PPS ,_, in_IN the_AT other_AP ,_, lives_VBZ within_IN of_IN that_DT building_NN ._.
+to_TO be_BE in_IN a_AT relationship_NN ,_, it_PPS is_BEZ better_JJT for_IN them_PPO to_TO know_VB which_WDT of_IN their_PP$ children_NNS to_TO see_VB ,_, not_* their_PP$ child_NN ._.
+for_IN many_AP reasons_NNS ,_, ._.
+the_AT first_OD reason_NN is_BEZ its_PP$ security_NN ,_, in_IN a_AT manner_NN which_WDT should_MD be_BE easy_JJ to_TO realize_VB ._.
+since_IN a_AT child_NN is_BEZ the_AT person_NN of_IN their_PP$ own_NN ._.
+this_DT was_BEDZ true_JJ in_IN the_AT first_OD respect_NN ._.
+what_WDT ,_, therefore, was_BEDZ the_AT other_AP ,_, the_AT person_NN of_IN the_AT building_NN ,_, a_AT child_NN ?_.
+so_RB ,_, for_IN reasons_NNS of_IN which_WDT we_PPSS shall_MD not_* discuss_VB ,_, their_PP$ status_NN was_BEDZ not_* important_JJ ._.
+it_PPS was_BEDZ the_AT person_NN whom_WPO ,_, when_WRB they_PPS was_BEDZ at_IN birth_NN ,_, spoke_VBD to_IN the_AT children_NNS of_IN the_AT building_NN ._.
+their_PP$ father_NN had_HVD not_* been_BEN their_PP$ only_AP person_NN ,_, ._.
+as_CS for_IN his_PP$ father_NN ,_, they_PPS had_HVD spoken_VBN to_IN them_PPO only_RB once_RB ._.
+in_IN the_AT second_OD ,_, the_AT child_NN made_VBD the_AT other_AP father_NN speak_VB to_IN them_PPO ,_, and_CC the_AT child's_NP$ mother_NN ,_, as_QL long_JJ as_CS that_DT person_NN lived_VBD on_IN the_AT property_NN ._.
+they_PPS ,_, being_BEG a_AT child_NN ,_, had_HVD been_BEN in_IN the_AT same_JJ household_NN in_IN the_AT second_OD that_WPS they_PPS had_HVD lived_VBN in_IN the_AT first_OD ,_, but_CC was_BEDZ not_* living_VBN in_IN the_AT second_OD ,_, and_CC they_PPS was_BEDZ living_VBN in_IN the_AT third_OD ,_, and_CC the_AT other_AP children_NNS did_BED not_* live_VB in_IN the_AT third_OD ._.
+the_AT second_OD that_WPS was_BEDZ with_IN each_DT child_NN ,_, the_AT child_NN ,_, knew_VBD ,_, the_AT child_NN ,_, , knew_VBD ,_, and_CC did_BED not_* know_VB ._.
+they_PPS knew_VBD :_:
+their_PP$ father_NN was_BEDZ an_AT orphan_NN ,_,
+the_AT son_NN ,_, brother_NN ,_, sister_NN ,_, and_CC child_NN ,_,
+they_PPS ,_, , they_PPS ,_, knew_VBD ,_, ._.
+the_AT third_OD ,_, and_CC fourth_OD were_BED of_IN the_AT same_AP class_NN ._.
+the_AT child_NN had_HVD come_VBN into_IN this_DT family
+
+[110 | 263.31] loss=1.41 avg=1.55
+[120 | 285.95] loss=1.34 avg=1.53
+[130 | 308.52] loss=1.33 avg=1.51
+[140 | 331.12] loss=1.30 avg=1.50
+[150 | 353.68] loss=1.26 avg=1.48
+[160 | 376.25] loss=1.30 avg=1.47
+[170 | 398.86] loss=1.36 avg=1.46
+[180 | 421.46] loss=1.31 avg=1.45
+[190 | 444.03] loss=1.26 avg=1.44
+[200 | 466.61] loss=1.24 avg=1.43
+======== SAMPLE 1 ========
+ States_NNS ._.
+and_CC ._.
+since_IN 1960_CD ,_, the_AT program_NN has_HVZ been_BEN ,_, in_IN most_ABN cases_NNS ,_, operated_VBN primarily_RB by_IN those_DTS who_WPS had_HVD gained_VBN such_JJ status_NN ,_, and_CC those_DTS who_WPS had_HVD fallen_VBD into_IN disarray_NN ._.
+there_EX is_BEZ also_RB a_AT special_JJ section_NN on_IN how_WRB to_TO apply_VB the_AT program_NN ._.
+in_IN these_DTS programs_NNS ,_, any_DTI person_NN with_IN the_AT knowledge_NN that_CS it_PPS is_BEZ at_IN risk_NN of_IN collapse_NN ,_, and_CC who_WPS has_HVZ a_AT knowledge_NN of_IN the_AT program_NN ._.
+if_CS an_AT examiner_NN who_WPS is_BEZ in_IN possession_NN of_IN the_AT program_NN and_CC is_BEZ subject_RB to_IN audit_NN by_IN the_AT authorities_NNS for_IN such_JJ work_NN ,_, a_AT person_NN with_IN the_AT knowledge_NN of_IN the_AT program_NN is_BEZ entitled_VBN to_IN an_AT expedited_VBN evaluation_NN of_IN the_AT course_NN without_IN delay_NN ._.
+a_AT complete_JJ and_CC comprehensive_JJ report_NN of_IN the_AT entire_JJ program_NN is_BEZ in_IN their_PP$ Public_JJ Record_NN ,_, or_CC ,_, to_TO be_BE found_VBN in_IN the_AT archives_NNS of_IN the_AT Illinois_NP Department_NN of_IN Public_JJ Works_NNS ,_, the_AT Administrative_JJ Department_NN _.
+for_IN the_AT purposes_NNS of_IN this_DT Act_NN ,_, an_AT individual_NN with_IN a_AT current_JJ history_NN or_CC criminal_JJ record_NN is_BEZ eligible_JJ to_TO receive_VB an_AT expedited_JJ evaluation_NN ._.
+the_AT program_NN has_HVZ provided_VBN them_PPO with_IN a_AT complete_JJ and_CC complete_JJ report_NN of_IN their_PP$ current_JJ and_CC criminal_JJ record_NN ._.
+it_PPS is_BEZ estimated_VBN these_DTS records_NNS will_MD be_BE available_JJ to_IN one_CD person_NN at_IN five_CD consecutive_JJ intervals_NNS ._.
+during_IN this_DT period_NN ,_, if_CS one_CD person_NN is_BEZ convicted_VBN of_IN criminal_JJ or_CC civil_JJ violation_NN of_IN a_AT law_NN ,_, the_AT person_NN will_MD be_BE entitled_VBN to_IN a_AT hearing_NN of_IN the_AT law_NN and_CC a_AT hearing_NN of_IN that_DT person_NN ._.
+on_IN the_AT basis_NN of_IN the_AT information_NN provided_VBN to_IN them_PPO ,_, they_PPS will_MD be_BE entitled_VBN to_IN their_PP$ final_JJ judgment_NN before_IN the_AT state_NN ,_, as_CS it_PPS is_BEZ determined_VBN by_IN an_AT Administrative_JJ Court_NN or_CC a_AT county_NN court_NN ,_, which_WDT shall_MD consist_VB of_IN a_AT representative_NN ,_, their_PP$ family_JJ counsel_NN ,_, representatives_NNS of_IN the_AT family_NN counsels_NNS ,_, and_CC a_AT panel_NN comprised_VBN of_IN representatives_NNS ,_, and_CC one_CD attorney_NN and_CC one_CD member_NN ,_, consisting_VBG of_IN six_CD persons_NNS ._.
+this_DT means_VB
+
+[210 | 498.35] loss=1.30 avg=1.42
+[220 | 520.91] loss=1.38 avg=1.42
+[230 | 543.46] loss=1.21 avg=1.41
+[240 | 566.05] loss=1.28 avg=1.40
+[250 | 588.66] loss=1.15 avg=1.39
+Saving checkpoint/P1_Neutralized12/model-250
+[260 | 614.01] loss=1.29 avg=1.39
+[270 | 636.65] loss=1.27 avg=1.38
+[280 | 659.22] loss=1.21 avg=1.38
+[290 | 681.79] loss=1.19 avg=1.37
+[300 | 704.38] loss=1.19 avg=1.36
+======== SAMPLE 1 ========
+NP have_HV been_BEN at_IN all_ABN ,_, said_VBD Mr._NP Kennedy_NP ,_, they_PPS did_DOD not_* have_HV a_AT word_NN of_IN discipline_NN about_IN the_AT word_NN ._.
+no_AT one_PN ever_RB was_BEDZ in_IN the_AT room_NN when_WRB Kennedy_NP made_VBD the_AT remarks_NNS ._.
+that_DT only_RB on_IN account_NN of_IN being_BEG told_VBN they_PPS was_BEDZ called_VBN had_HVD not_* a_AT word_NN of_IN discipline_NN taken_VBN up_RP with_IN them_PPO and_CC put_VBN to_IN the_AT test_NN ._.
+some_DTI people_NNS even_RB questioned_VBN where_WRB the_AT action_NN might_MD have_HV been_BEN taken_VBN if_CS the_AT line_NN were_BED actually_RB taken_VBN down_RP ._.
+nevertheless_RB ,_, the_AT matter_NN was_BEDZ kept_VBN the_AT line_NN at_IN the_AT door_NN ._.
+this_DT is_BEZ a_AT kind_NN of_IN irony_NN ._.
+the_AT people_NNS have_HV known_VBN to_IN the_AT way_NN by_IN some_DTI acts_NNS or_CC other_JJ ,_, for_IN some_DTI reason_NN they_PPSS have_HV thought_VBN of_IN as_CS the_AT first_OD act_NN of_IN the_AT whole_JJ affair_NN ._.
+in_IN all_ABN this_DT ,_, however_RB ,_, it_PPS should_MD be_BE said_VBN a_AT few_AP things_NNS ._.
+there_EX had_HVD been_BEN a_AT real_JJ talk_NN among_IN the_AT people_NNS about_IN the_AT whole_JJ affair_NN before_CS they_PPSS heard_VBD of_IN it_PPO ._.
+for_IN example_NN ,_, the_AT people_NNS said_VBD they_PPSS had_HV heard_VBN it_PPO before_IN the_AT whole_JJ affair_NN had_HVD been_BEN going_VBN well_QL ,_, and_CC they_PPSS had_HVD never_RB even_RB heard_VBN about_IN it_PPO ._.
+there_EX had_HVD been_BEN talk_NN about_IN the_AT things_NNS that_WPS had_HVD happened_VBN to_IN Mrs._NP Kennedy_NP after_IN which_WDT they_PPS was_BEDZ very_QL glad_JJ to_TO have_HV the_AT book_NN finished_VBN :_: and_CC then_RB they_PPSS talked_VBD about_IN the_AT book_NN and_CC the_AT people_NNS ._.
+they_PPSS were_BED happy_JJ with_IN it_PPO ;_.
+they_PPSS were_BED happy_JJ to_TO have_HV a_AT little_JJ and_CC a_AT bit_NN about_IN the_AT people_NNS before_CS and_CC after_IN when_WRB the_AT whole_JJ affair_NN had_HVD become_VBN a_AT big_JJ deal_NN ._.
+after_CS the_AT whole_JJ affair_NN ,_, there_EX had_HVD been_BEN some_DTI talk_NN about_IN not_* having_HV it_PPO finished_VBN and_CC having_HV it_PPO completed_VBN at_IN the_AT end_NN of_IN the_AT year_NN to_TO tell_VB the_AT people_NNS not_* to_TO worry_VB about_IN it_PPO and_CC not_* to_TO waste_VB of_IN the_AT books_NNS until_IN the_AT end_NN ._.
+but_CC it_PPS would
+
+[310 | 736.13] loss=1.20 avg=1.36
+[320 | 758.71] loss=1.33 avg=1.35
+[330 | 781.27] loss=1.25 avg=1.35
+[340 | 803.85] loss=1.13 avg=1.34
+[350 | 826.46] loss=1.22 avg=1.34
+[360 | 849.04] loss=1.20 avg=1.33
+[370 | 871.63] loss=1.20 avg=1.33
+[380 | 894.29] loss=1.30 avg=1.33
+[390 | 916.93] loss=1.22 avg=1.33
+[400 | 939.49] loss=1.22 avg=1.32
+======== SAMPLE 1 ========
+_NP in_IN my_PP$ own_JJ mind_NN was_BEDZ never_RB more_QL important_JJ when_WRB I_PPSS saw_VBD myself_PPL in_IN The_AT Life_NN Of_IN Henrietta_NP ._.
+I_PPSS had_HVD seen_VBN it_PPO before_RB ,_, in_IN The_AT Life_NN Of_IN Henrietta_NP ._.
+I_PPSS had_HVD a_AT strong_JJ memory_NN of_IN it_PPO ,_, and_CC a_AT strong_JJ affection_NN for_IN what_WDT they_PPS had_HVD done_VBN ,_, and_CC a_AT strong_JJ desire_NN to_TO see_VB them_PPO again_RB and_CC again_RB ._.
+I_PPSS was_BEDZ reminded_VBN of_IN that_DT scene_NN in_IN The_AT Life_NN Of_IN Henrietta_NP ,_, but_CC never_RB felt_VBD that_CS the_AT life_NN of_IN Henrietta_NP had_HVD become_VBN a_AT story_NN ._.
+never_RB did_DOD I_PPSS feel_VB that_CS they_PPS had_HVD taken_VBN an_AT important_JJ step_NN in_IN being_BEG a_AT person_NN ,_, or_CC else_RB more_QL than_CS in_IN trying_VBG to_TO tell_VB me_PPO what_WDT Henrietta_NP was_BEDZ ,_, and_CC how_WQL much_AP my_PP$ own_JJ feeling_NN of_IN their_PP$ character_NN had_HVD been_BEN reduced_VBN ._.
+what_WDT they_PPS had_HVD done_VBN during_IN these_DTS years_NNS must_MD be_BE seen_VBN as_CS proof_NN of_IN what_WDT would_MD happen_VB to_IN the_AT people_NNS on_IN who_WPS were_BED not_* in_IN need_NN of_IN help_NN ._.
+there_EX was_BEDZ something_PN of_IN hope_NN for_IN me_PPO that_CS some_DTI of_IN the_AT early_JJ people_NNS of_IN the_AT region_NN were_BED ,_, or_CC indeed_RB had_HVD been_BEN ,_, willing_JJ to_TO do_DO ,_, and_CC they_PPSS certainly_RB were_BED ._.
+but_CC the_AT fact_NN I_PPSS recall_VB was_BEDZ that_CS there_EX seemed_VBD to_IN me_PPO little_JJ hope_NN in_IN the_AT people_NNS ._.
+the_AT hope_NN for_IN me_PPO is_BEZ in_IN my_PP$ own_JJ character_NN ._.
+there_EX was_BEDZ a_AT feeling_NN there_EX they_PPS was_BEDZ no_AT more_QL capable_JJ of_IN being_BEG and_CC they_PPS had_HVD not_* shown_VBN weakness_NN ,_, and_CC there_EX was_BEDZ in_IN the_AT people_NNS I_PPSS knew_VBD more_QL developed_VBN of_IN weakness_NN and_CC who_WPS felt_VBD less_QL sure_JJ about_IN the_AT world_NN ._.
+I_PPSS could_MD only_RB see_VB ,_, and_CC if_CS somebody_PN looked_VBD through_IN my_PP$ eyes_NNS ,_, if_CS I_PPSS stared_VBD ,_, I_PPSS felt_VBD no_QL hope_NN ._.
+I_PPSS saw_VBD too_QL much_AP weakness_NN ,_, and_CC I_PPSS had_HVD felt_VBN they_PPS did_DOD not_* exist_VB ._.
+I_PPSS had_HVD also_RB seen_VBN in_IN those_DTS days_NNS that_
+
+[410 | 971.28] loss=1.39 avg=1.32
+[420 | 993.91] loss=1.23 avg=1.32
+[430 | 1016.52] loss=1.22 avg=1.32
+[440 | 1039.10] loss=1.16 avg=1.31
+[450 | 1061.67] loss=1.05 avg=1.31
+[460 | 1084.22] loss=1.15 avg=1.30
+[470 | 1106.81] loss=1.18 avg=1.30
+[480 | 1129.43] loss=1.21 avg=1.30
+[490 | 1152.09] loss=1.04 avg=1.29
+[500 | 1174.78] loss=1.25 avg=1.29
+Saving checkpoint/P1_Neutralized12/model-500
+WARNING:tensorflow:From /tensorflow-1.15.2/python3.7/tensorflow_core/python/training/saver.py:963: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.
+======== SAMPLE 1 ========
+_. from_IN the_AT world_NN of_IN The_AT Flying_VBG Birds_NNS ,_, the_AT film_NN is_BEZ a_AT kind_NN of_IN classic_JJ mythological_JJ experience_NN ,_, a_AT retelling_NN of_IN the_AT traditional_JJ events_NNS ,_, the_AT characters_NNS ,_, and_CC the_AT world_NN itself_PPL ._.
+the_AT film_NN is_BEZ a_AT little_QL more_QL than_CS a_AT mere_JJ chronicle_NN of_IN the_AT life_NN of_IN a_AT race-sustaining_VBG hero_NN ._.
+its_PP$ main_JJS element_NN is_BEZ ,_, to_TO a_AT lesser_JJR degree_NN ,_, the_AT drama_NN of_IN one_CD person_NN ,_, the_AT drama_NN of_IN a_AT few_AP members_NNS of_IN a_AT society_NN ,_, and_CC in_IN the_AT process_NN it_PPS becomes_VBZ a_AT kind_NN of_IN saga_NN ,_, the_AT story_NN of_IN the_AT individual_JJ or_CC a_AT collective_JJ ._.
+the_AT films_NNS that_WPS are_BER given_VBN are_BER the_AT classic_JJ epic_NN films_NNS of_IN the_AT late_JJ 90's_NNS and_CC later_JJR ;_.
+those_DTS that_WPS took_VBD the_AT form_NN of_IN a_AT film_NN in_IN the_AT age_NN of_IN movies_NNS ,_, the_AT films_NNS that_WPS swept_VBD away_RB some_DTI of_IN those_DTS who_WPS disliked_VBD them_PPO and_CC those_DTS who_WPS tried_VBD to_IN recreate_VB them_PPO for_IN the_AT 21st_OD century_NN ._.
+in_IN one_CD instance_NN ,_, a_AT film_NN that_WPS attempted_VBD to_TO recreate_VB the_AT old_JJ way_NN of_IN life_NN ,_, but_CC had_HVD to_TO rely_VB upon_IN a_AT new_JJ form_NN of_IN living_VBG art_NN ,_, that_WPS had_HVD to_TO contend_VB with_IN the_AT social_JJ changes_NNS of_IN earlier_JJR times_NNS ._.
+an_AT excellent_JJ example_NN of_IN the_AT type_NN of_IN films_NNS that_WPS seem_VB to_TO be_BE the_AT kind_NN of_IN history_NN films_NNS that_WPS could_MD have_HV been_BEN made_VBN and_CC distributed_VBN with_IN the_AT exception_NN of_IN a_AT handful_NN of_AP films_NNS ,_, is_BEZ the_AT recent_JJ adaptation_NN of_IN the_AT popular_JJ novel_NN ,_, which_WDT came_VBD out_IN of_IN Switzerland_NP in_IN the_AT late_JJ 1940's_NNS and_CC has_HVZ recently_RB been_BEN directed_VBN by_IN Mr._NP James_NP Miller_NP ._.
+it_PPS centers_VBZ around_IN a_AT young_JJ lady_NN who_WPS is_BEZ living_VBG with_IN two_CD children_NNS and_CC decides_VBZ to_TO change_VB their_PP$ life_NN --_-- to_TO take_VB on_RP a_AT new_JJ and_CC challenging_VBG work_NN of_IN art_NN and_CC live_VB in_IN a_AT town_NN that_WPS does_DOZ not_* live_VB to_IN the_AT date_NN for_IN a_AT new_JJ novel_NN ._.
+the_AT movie_NN is_BEZ set_VBN in_IN a_AT country_NN where_WRB the_AT old_JJ ways_NNS of_IN life_NN have_
+
+[510 | 1208.89] loss=1.17 avg=1.29
+[520 | 1231.56] loss=1.07 avg=1.28
+[530 | 1254.25] loss=1.13 avg=1.28
+[540 | 1276.89] loss=1.22 avg=1.28
+[550 | 1299.46] loss=1.18 avg=1.27
+[560 | 1322.02] loss=1.13 avg=1.27
+[570 | 1344.61] loss=1.09 avg=1.27
+[580 | 1367.22] loss=1.13 avg=1.26
+[590 | 1389.84] loss=1.07 avg=1.26
+[600 | 1412.49] loss=1.14 avg=1.26
+======== SAMPLE 1 ========
+ has_HV taken_VBN to_TO trade_VB ,_, to_TO buy_VB the_AT goods_NNS and_CC help_VB people_NNS and_CC make_VB this_DT world_NN a_AT better_JJR place_NN ._.
+the_AT same_AP cannot_MDABLY be_BE said_VBN for_IN the_AT Jews_NPS ._.
+the_AT Jews_NPS are_BER the_AT new_JJ refugees_NNS into_IN the_AT world_NN of_IN the_AT new_JJ Jews_NPS ._.
+that_DT they_PPSS came_VBN here_RB from_IN Africa_NP in_IN the_AT 1930's_NNS and_CC that_CS they_PPSS are_BER not_* so_QL new_JJ are_BER facts_NNS that_WPS confirm_VB them_PPO ._.
+they_PPSS know_VB nothing_PN about_IN the_AT modern_JJ world_NN ._.
+now_RB it_PPS is_BEZ necessary_JJ to_TO ask_VB what_WDT the_AT Jews_NPS ,_, or_CC what_WDT is_BEZ an_AT American_JJ Jewish_JJ person_NN ?_.
+after_IN that_DT we_PPSS will_MD return_VB to_IN some_DTI of_IN the_AT things_NNS that_WPS have_HV gone_VBN against_IN Jews_NNS ;_.
+not_* to_TO become_VB religious_JJ ;_.
+to_TO say_VB something_PN that_DT is_BEZ true_JJ of_IN the_AT Jews_NPS and_CC not_* to_TO be_BE regarded_VBN as_CS a_AT new_JJ revelation_NN ;_.
+but_CC that_DT is_BEZ not_* that_DT which_WDT should_MD be_BE said_VBN hereinafter_RB which_WDT is_BEZ forbidden_VBN to_IN a_AT new_JJ generation_NN ;_.
+that_CS is_BEZ what_WDT we_PPSS must_MD be_BE permitted_VBN as_QL long_RB as_CS we_PPSS are_BER Jews_NPS ._.
+and_CC the_AT question_NN for_IN us_PPO here_RB and_CC for_IN now_RB is_BEZ just_RB this_DT: what_WDT is_BEZ something_PN that_DT has_HVZ happened_VBN to_IN the_AT Jews_NPS ?_.
+that_DT is_BEZ the_AT question_NN :_: is_BEZ it_PPS right_JJ to_TO say_VB that_CS something_PN has_HVZ happened_VBN ?_.
+what_WDT is_BEZ wrong_JJ to_TO do_DO to_TO do_IN with_IN the_AT Jews_NPS ?_.
+and_CC what_WDT to_TO do_DO with_IN the_AT people_NNS living_VBG in_IN the_AT Middle_JJ East_NR ?_.
+for_CS if_CS there_EX was_BEDZ a_AT Jew_NP living_VBG in_IN the_AT Middle_JJ East_NR they_PPS said_VBD nothing_PN and_CC they_PPS was_BEDZ dead_JJ ._.
+but_CC if_CS there_EX was_BEDZ somebody_PN living_VBG there_RB they_PPS said_VBD nothing_PN and_CC they_PPS was_BEDZ buried_VBN ._.
+if_CS there_EX was_BEDZ an_AT American_JJ who_WPS did_DOD not_* want_VB to_TO believe_VB ,_, they_PPS didn't_DOD* tell_VB them_PPO ,_, they_PPS told_VBD them_PPO ._.
+if_CS there_EX was_BEDZ a_AT Jewish_NP who_WPS wanted_VBD to_TO live_VB they_PPS talked_VBD about_IN nothing_PN ;_.
+you_PPSS knew_VBD nothing_PN and_CC they_PPS was_BEDZ dead_JJ ._.
+you_
+
+[610 | 1444.20] loss=1.19 avg=1.25
+[620 | 1466.79] loss=1.17 avg=1.25
+[630 | 1489.43] loss=1.16 avg=1.25
+[640 | 1512.08] loss=1.03 avg=1.25
+[650 | 1534.66] loss=1.17 avg=1.24
+[660 | 1557.26] loss=1.13 avg=1.24
+[670 | 1579.86] loss=1.20 avg=1.24
+[680 | 1602.47] loss=1.08 avg=1.24
+[690 | 1625.08] loss=1.07 avg=1.24
+[700 | 1647.69] loss=1.20 avg=1.23
+======== SAMPLE 1 ========
+_AT last_AP three_CD years_NNS have_HV been_BEN a_AT major_JJ source_NN of_IN tension_NN in_IN recent_JJ years_NNS ,_, largely_RB explained_VBN by_IN a_AT growing_VBG understanding_NN of_IN the_AT difference_NN between_IN the_AT concept_NN of_IN and_CC the_AT term_NN religion_NN ._.
+religions_NNS are_BER no_AT more_AP than_CS human_JJ entities_NNS on_IN the_AT basis_NN of_IN which_WDT the_AT word_NN religion_NN can_MD be_BE employed_VBN ._.
+and_CC such_ABL a_AT concept_NN ,_, as_QL well_RB as_CS the_AT need_NN for_IN the_AT use_NN of_IN and_CC the_AT use_NN of_IN the_AT phrase_NN of_IN religion_NN as_CS a_AT word_NN in_IN connection_NN with_IN human_JJ society_NN ,_, has_HVZ attracted_VBN the_AT attention_NN of_IN many_ABN scholars_NNS ._.
+what_WDT does_DOZ religion_NN mean_VB ?_.
+belief_NN of_IN God_NP is_BEZ the_AT most_QL sacred_JJ attribute_NN of_IN the_AT divine_NN ._.
+it_PPS is_BEZ the_AT faith_NN of_IN individuals_NNS who_WPS have_HV a_AT personal_JJ stake_NN in_IN the_AT destiny_NN of_IN others_NNS ,_, and_CC in_IN doing_VBG so_RB exercise_VB their_PP$ divine_JJ sovereignty_NN over_IN the_AT world_NN ._.
+the_AT religious_JJ faith_NN was_BEDZ so_QL often_RB used_VBN as_CS a_AT way_NN of_IN expressing_VBG or_CC even_RB justification_NN the_AT human_JJ nature_NN of_IN nature_NN ,_, or_CC the_AT power_NN of_IN God_NP ._.
+here_RB is_BEZ a_AT word_NN from_IN a_AT philosopher_NN ._.
+the_AT concept_NN of_IN religion_NN seems_VBZ to_TO have_HV to_TO do_DO with_IN the_AT concept_NN of_IN the_AT divinity_NN or_CC god_NN (_( the_AT word_NN ,_, religion_NN is_BEZ often_RB applied_VBN to_IN this_DT concept_NN ]_.
+)_.
+this_DT has_HVZ come_VBN to_TO be_BE understood_VBN as_CS something_PN that_WPO is_BEZ based_VBN on_IN divine_JJ revelation_NN ,_, and_CC that_DT is_BEZ ,_, it_PPS is_BEZ based_VBN upon_IN the_AT concept_NN of_IN God_NP ._.
+this_DT term_NN has_HVZ also_RB come_VBN to_TO be_BE used_VBN in_IN the_AT sense_NN of_IN something_PN that_WPO is_BEZ not_* the_AT personal_JJ faith_NN of_IN the_AT individual_NN directly_RB in_IN control_NN over_IN the_AT outcome_NN of_IN things_NNS ,_, or_CC ,_, more_QL accurately_RB ,_, a_AT belief_NN in_IN something_PN which_WDT is_BEZ in_IN direct_JJ personal_JJ relation_NN to_IN God_NP ._.
+the_AT idea_NN of_IN God_NP is_BEZ thus_RB derived_VBN from_IN the_AT concept_NN of_IN religion_NN ,_, which_WDT is_BEZ a_AT Christian_NP belief_NN of_IN the_AT divine_JJ as_CS the_AT only_AP being_NN outside_IN of_IN the_AT physical_JJ world_NN and_CC which_WDT is_BEZ based_VBN entirely_QL on_IN the_AT metaphysical_JJ ._.
+what_WDT is
+
+[710 | 1679.30] loss=1.16 avg=1.23
+[720 | 1701.91] loss=1.16 avg=1.23
+[730 | 1724.51] loss=1.23 avg=1.23
+[740 | 1747.15] loss=1.19 avg=1.23
+[750 | 1769.77] loss=1.32 avg=1.23
+Saving checkpoint/P1_Neutralized12/model-750
+[760 | 1794.63] loss=1.15 avg=1.23
+[770 | 1817.31] loss=1.28 avg=1.23
+[780 | 1839.93] loss=1.26 avg=1.23
+[790 | 1862.55] loss=0.99 avg=1.23
+[800 | 1885.13] loss=1.19 avg=1.23
+======== SAMPLE 1 ========
+ies is_BEZ the_AT last_AP word_NN ;_.
+and_CC the_AT person_NN who_WPS can_MD maintain_VB their_PP$ good_JJ will_NN for_IN many_AP years_NNS ,_, or_CC for_IN a_AT limited_VBN while_NN ,_, cannot_MD* afford_VB the_AT time_NN and_CC effort_NN to_TO repair_VB the_AT damage_NN done_VBN to_IN their_PP$ soul_NN ._.
+they_PPS has_HVZ the_AT only_AP way_NN to_TO know_VB for_IN themselves_PPLS where_WRB the_AT blame_NN will_MD be_BE placed_VBN ;_.
+and_CC they_PPS would_MD say_VB ,_, 'I_PPSS don't_DO* trust_VB the_AT Church_NN ._.
+we_PPSS have_HV a_AT problem_NN.'--(__( I_PPSS was_BEDZ told_VBN ,_, so_CS I_PPSS put_VBD an_AT inveterate_JJ interest_NN in_IN the_AT Church_NN I_PPSS served_VBD ,_, and_CC the_AT problems_NNS that_WPS surround_VB me_PPO ._.
+)_) even_RB though_CS the_AT Church_NN cannot_MD* do_DO all_ABN the_AT work_NN of_IN its_PP$ own_JJ ,_, it_PPS will_MD do_DO a_AT good_JJ deal_NN of_IN what_WDT it_PPS can_MD do_DO to_TO make_VB sure_JJ that_CS such_ABL a_AT thing_NN will_MD not_* occur_VB ,_, the_AT Church_NN can_MD do_DO nothing_PN it_PPS cannot_MD* do_DO else_RB ._.
+in_IN addition_NN ,_, the_AT Church_NN is_BEZ also_RB responsible_JJ for_IN all_ABN the_AT mismanagement_NN so_QL far_RB as_CS it_PPS has_HVZ been_BEN concerned_VBN and_CC ,_, with_IN sufficient_JJ prudence_NN ,_, the_AT Church_NN can_MD act_VB to_TO correct_VB the_AT messes_NNS created_VBN by_IN corruption_NN and_CC the_AT corruption_NN ,_, and_CC to_TO do_DO their_PP$ best_JJT to_TO correct_VB them_PPO ._.
+they_PPS may_MD do_DO an_AT excellent_JJ job_NN in_IN solving_VBG their_PP$ problems_NNS ,_, but_CC if_CS they_PPS can't_MD* do_DO that_DT ,_, they'll_PPSS+MD have_HV nothing_PN left_VBN to_TO show_VB ._.
+I_PPSS know_VB from_IN experience_NN for_IN the_AT Church_NN will_MD do_DO all_ABN its_PP$ work_NN ,_, and_CC all_ABN its_PP$ efforts_NNS on_IN the_AT matter_NN ,_, as_CS I_PPSS am_BEM sure_JJ its_PP$ most_QL important_JJ ._.
+the_AT Church_NN has_HVZ to_TO do_DO what_WDT it_PPS can_MD do_DO ,_, and_CC it_PPS has_HVZ it's_PP$ best_JJT chance_NN of_IN this_DT ._.
+it's_PPS said_VBN they_PPSS will_MD make_VB the_AT problem_NN easier_RVBN for_CS the_AT Church_NN ._.
+but_CC even_RB if_CS they_PPSS fail_VB ,_, they_PPSS will_MD be_BE forced_VBN to_TO do_DO what_WDT it_PPS must_MD to_TO make_VB some_DTI things_NNS easier_RBR to_TO solve_VB ,_, as_CS I_PPSS was_BEDZ assured
+
+[810 | 1916.78] loss=1.18 avg=1.23
+[820 | 1939.37] loss=1.08 avg=1.22
+[830 | 1962.01] loss=1.08 avg=1.22
+[840 | 1984.62] loss=1.06 avg=1.22
+[850 | 2007.26] loss=1.09 avg=1.22
+[860 | 2029.91] loss=1.12 avg=1.21
+[870 | 2052.54] loss=1.13 avg=1.21
+[880 | 2075.15] loss=1.19 avg=1.21
+[890 | 2097.74] loss=1.10 avg=1.21
+[900 | 2120.30] loss=1.05 avg=1.21
+======== SAMPLE 1 ========
+_NN of_IN the_AT world_NN ._.
+the_AT American_JJ people_NNS are_BER the_AT most_QL mature_JJ people_NNS I_PPSS have_HV ever_RB known_VBN ._.
+their_PP$ children_NNS are_BER not_* younger_JJR ,_, not_* older_JJR ,_, not_* richer_JJR ._.
+their_PP$ young_JJ people_NNS are_BER not_* better_JJR ,_, even_RB though_CS they_PPSS may_MD seem_VB to_TO be_BE in_IN a_AT better_JJR position_NN to_TO judge_VB such_JJ subjects_NNS as_CS politics_NN ,_, literature_NN and_CC literature_NN ._.
+there_EX are_BER no_AT such_JJ distinctions_NNS in_IN literature_NN and_CC in_IN art_NN ._.
+in_IN politics_NN ,_, there_EX are_BER distinctions_NNS of_IN opinion_NN ._.
+in_IN art_NN ,_, there_EX are_BER distinctions_NNS about_IN colors_NNS and_CC wording_NN ._.
+there_EX are_BER distinctions_NNS about_IN beauty_NN and_CC hair_NN as_CS the_AT artist_NN creates_VBZ and_CC the_AT person_NN who_WPS can_MD do_DO the_AT work_NN ._.
+if_CS no_AT one_PN can_MD come_VB close_RB to_IN them_PPO ,_, it_PPS comes_VBZ to_IN art_NN ._.
+if_CS no_AT one_PN can_MD say_VB anything_PN about_IN the_AT art_NN ,_, everyone_PN has_HVZ to_TO do_DO what_WDT they_PPS can_MD with_IN their_PP$ own_JJ abilities_NNS ,_, and_CC this_DT means_NNS working_VBG all_ABN their_PP$ skills_NNS together_RB ._.
+and_CC this_DT brings_VBZ up_RP the_AT next_AP point_NN ._.
+all_ABN the_AT people_NNS in_IN the_AT room_NN are_BER all_ABN trained_VBN to_TO do_DO what_WDT they_PPSS can_MD ._.
+all_ABN the_AT people_NNS in_IN the_AT room_NN have_HV their_PP$ own_JJ talents_NNS in_IN paint_NN and_CC calligraphy_NN ,_, and_CC all_ABN the_AT people_NNS in_IN their_PP$ office_NN specialize_VB in_IN letterpress_NN ,_, letter_NN, typewriter_NN and_CC other_AP services_NNS ._.
+all_ABN people_NNS learn_VB the_AT basic_JJ craft_NN ,_, they_PPSS make_VB the_AT best_JJT and_CC the_AT best_JJT gifts_NNS ,_, they_PPSS are_BER trained_VBN in_IN the_AT arts_NNS and_CC skills_NNS learned_VBN in_IN workmanship_NN ._.
+everything_PN and_CC all_ABN in_IN it_PPO comes_VBZ from_IN this_DT vast_JJ network_NN of_IN individuals_NNS and_CC networks_NNS on_IN the_AT world_NN ._.
+that_WPS vast_JJ world_NN is_BEZ the_AT human_JJ world_NN ._.
+I_PPSS don't_DO* know_VB why_WRB people_NNS are_BER so_QL fascinated_VBN by_IN the_AT human_WPO and_CC all_ABN kinds_NNS of_IN things_NNS we_PPSS can_MD do_DO and_CC do_DO not_* know_VB about_IN ._.
+I_PPSS don't_DO* know_VB it_PPO either_CC because_CS I_PPSS see_VB everything_PN ._.
+I_PPSS have_HV a_AT particular_JJ love_NN for_IN animals_NNS ,
+
+[910 | 2152.00] loss=1.09 avg=1.21
+[920 | 2174.61] loss=0.96 avg=1.20
+[930 | 2197.20] loss=1.11 avg=1.20
+[940 | 2219.82] loss=1.01 avg=1.20
+[950 | 2242.42] loss=1.05 avg=1.19
+[960 | 2265.07] loss=1.04 avg=1.19
+[970 | 2287.65] loss=0.93 avg=1.19
+[980 | 2310.25] loss=1.22 avg=1.19
+[990 | 2332.90] loss=1.06 avg=1.19
+[1000 | 2355.52] loss=1.13 avg=1.19
+Saving checkpoint/P1_Neutralized12/model-1000

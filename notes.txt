@@ -1,0 +1,51 @@
+part1: line 1 to 28533
+part2: line 28534 to 57067
+
+re-run 250
+
+seeds: numbers are for non-case sensitive
+
+doctor_NN 40
+officer_NN 48
+leader_NN 67
+scientist_NN 14
+minister_NN 39
+
+nurse_NN 8
+teacher_NN 37
+secretary_NN 145
+assistant_NN 16
+therapist_NN 11
+
+
+
+
+
+beautiful_JJ 77
+pretty_JJ 16
+submissive_JJ 4
+emotional_JJ 33
+sensitive_JJ 36
+
+strong_JJ 104
+dominant_JJ 18
+aggressive_JJ 9
+logical_JJ 17
+professional_JJ 71
+
+
+
+
+
+queen_NN 27
+mother_NN 99
+wife_NN 136
+Mrs._NP 372
+daughter_NN 54
+
+
+king_NN 65
+father_NN 102
+husband_NN 77
+Mr._NP 585
+son_NN 87

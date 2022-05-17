@@ -1,0 +1,36 @@
+WARNING:tensorflow:From /usr/local/lib/python3.7/dist-packages/gpt_2_simple/src/sample.py:17: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+Loading checkpoint checkpoint/P1_Baseline/model-1000
+INFO:tensorflow:Restoring parameters from checkpoint/P1_Baseline/model-1000
+  0%|          | 0/1 [00:00<?, ?it/s]Loading dataset...
+100%|██████████| 1/1 [00:08<00:00,  8.79s/it]
+dataset has 1738928 tokens
+Training...
+Saving checkpoint/P1_Baseline/model-1000
+======== SAMPLE 1 ========
+_NN of_IN the_AT United_VBN Nations_NNS and_CC to_TO help_VB to_TO develop_VB the_AT art_NN industry_NN ._.
+the_AT artists_NNS also_RB took_VBD over_RP the_AT world-famous_JJ P.E._NP F._NP Chimenti_NP ,_, the_AT first_OD sculptor_NN of_IN the_AT modern_JJ style_NN ,_, for_IN several_AP months_NNS ,_, and_CC to_TO promote_VB his_PP$ new_JJ Italian_JJ restaurant_NN ,_, and_CC their_PP$ collaboration_NN to_TO open_VB the_AT Sarmiento_NP Di_NP Matteo_NP in_IN New_JJ York_NP City_NN ._.
+Chimenti_NP has_HVZ been_BEN an_AT international_JJ darling_NN in_IN his_PP$ native_JJ Italy_NP ,_, and_CC plans_VBZ to_TO open_VB in_IN Paris_NP ._.
+in_IN 1954_CD ,_, he_PPS ,_, along_IN with_IN another_DT Frenchman_NP ,_, Domenico_NP Pustatini_NP ,_, opened_VBD Pernambuco_NP ,_, in_IN Rome_NP ,_, as_CS a_AT joint_JJ venture_NN of_IN the_AT firm_NN of_IN Chien_NP and_CC De_NP Ponce_NP B._NP ._.
+under_IN auspices_NNS from_IN the_AT National_JJ Film_NN Council_NN ,_, the_AT film_NN program_NN at_IN Sarmiento_NP Di_NP Matteo_NP grew_VBD rapidly_RB and_CC grew_VBD in_IN volume_NN --_-- with_IN no_AT less_AP than_IN two-thirds_NN of_IN the_AT openings_NNS being_BEG in_IN English-language_JJ material_NN on_IN the_AT J_NN ._.
+it_PPS was_BEDZ not_* difficult_JJ for_CS Chimenti_NP to_TO become_VB a_AT fixture_NN of_IN the_AT local_JJ and_CC international_JJ press_NN ,_, for_CS most_AP of_IN him_PPO had_HVD worked_VBN at_IN the_AT big_JJ theaters_NNS of_IN the_AT top_JJS entertainment_NN capitals_NNS in_IN the_AT West_NR ._.
+only_RB the_AT best_JJT ,_, most_QL current_JJ and_CC authentic_JJ of_IN American_JJ movies_NNS and_CC television_NN programs_NNS ,_, such_JJ as_CS The_AT Newsroom_NN of_IN The_AT Chicago_NP Tribune_NN ,_, The_AT Chicago_NP Tribune_NN ,_, and_CC The_AT Real_JJ Life_NN Show_NN ,_, had_HVD been_BEN shown_VBN in_IN these_DTS theaters_NNS in_IN Europe_NP ._.
+the_AT picture_NN industry_NN would_MD ,_, of_IN course_NN ,_, like_CS it_PPO to_TO be_BE so_RB ,_, but_CC because_CS it_PPS lacked_VBD the_AT prestige_NN that_WPS so_QL many_AP American_JJ theaters_NNS were_BED boasting_VBG ,_, the_AT J_NN also_RB was_BEDZ lacking_VBG in_IN the_AT public_JJ recognition_NN it_PPS had_HVD when_WRB the_AT U.S._NP were_BED no_AT more_RBR the_AT world_NN ._.
+in_IN 1960_CD ,_, as_CS our_PP$ J_NN proved_VBD itself_PPL in_IN new_JJ ways_NNS ,_, the_AT film_NN industry_NN did_DOD have_HV a_AT stake_NN ,_, or_CC ownership_NN ,_, in_IN the_AT whole_JJ world_NN ._.
+in_IN this_DT connection_NN ,_, one_PN could_MD find_VB
+
+[1001 | 26.20] loss=1.27 avg=1.27
+[1002 | 29.40] loss=1.39 avg=1.33
+[1003 | 32.59] loss=1.33 avg=1.33
+[1004 | 35.78] loss=1.32 avg=1.33
+[1005 | 38.97] loss=1.24 avg=1.31
+[1006 | 42.16] loss=1.24 avg=1.30
+[1007 | 45.37] loss=1.37 avg=1.31
+[1008 | 48.58] loss=1.21 avg=1.30
+[1009 | 51.78] loss=1.32 avg=1.30
+[1010 | 54.97] loss=1.26 avg=1.29
+Saving checkpoint/P1_Baseline/model-1010
+WARNING:tensorflow:From /tensorflow-1.15.2/python3.7/tensorflow_core/python/training/saver.py:963: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.
